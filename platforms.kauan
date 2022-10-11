@@ -1,0 +1,5 @@
+/* PLATFORMS */
+` h*stgrs[]
+windows: true;
+linux: true;
+purnjayos: true;
