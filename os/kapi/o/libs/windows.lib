@@ -1,0 +1,9 @@
+static:
+library
+/****************************************
+  * WINDOWS.LIB
+  * THIS IS A SYSTEM FILE
+  * DO NOT EDIT
+****************************************/
+
+static content.library import from CSSYSTEM.IO
