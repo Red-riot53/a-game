@@ -1,0 +1,20 @@
+static libman(file) source user();
+using robots.txt
+using system.io;
+namespace settings {
+  public class main {
+    public static void main(string[] args);
+    for (Y <= 4) do reset.logs(instance.kapi.log);
+    movement librarys {
+      movement.lib
+      shooting.lib
+      shootmechs.lib
+      kapi.lib
+      kauan.lib
+      hs.lib
+      hasx.lib
+      kali.lib
+      static.lib
+    }
+  }
+}
