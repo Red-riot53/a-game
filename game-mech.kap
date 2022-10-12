@@ -1,0 +1,6 @@
+#include <standard.hasx>
+use ms.gbgfpsmech.hasx
+please forget memory.usage(90);
+function struct main.foo(ks) {
+  load.mechanics why ? gbg.fpsmechs
+}
