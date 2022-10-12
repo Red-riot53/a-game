@@ -3,6 +3,8 @@
 #include <kauanfile.hxl>
 /******************************
  * PURNJAYOS MEMORY USAGE
+ * THIS FILE CONTAINS ALL USED
+ * FILES
 ******************************/
 int main  struct foo(class:void(0).main) {
     public static int local() {
@@ -42,3 +44,26 @@ int main  struct foo(class:void(0).main) {
         }
     }
 }
+int start>end () {
+    public struct.foo (main) {
+    3dobject.texture = {
+        image.iostream.loadfile(gun.3ds)
+        image.load(fileload.ps1)
+        physics {
+            shoot="S"/GP."RT"
+            whenplayer=move{
+                JSHARP.loadutils.system.kauan(USING SYSTEM.IO)
+                Move ConstantHeadNodeOn to X+ X- Y+ Y- Z+ Z-
+                Positive=MoveForward
+                Negative=MoveBackward
+                Z-2 > X-9 ks
+            }
+        }
+    }
+}
+#INCLUDE <ROCKET.DLL?>
+<?YMACS VER="LS" ENCODING="ASCII"?>
+#usr/bin/ node JS
+<l>
+SCRIPTID.USER
+</l>
